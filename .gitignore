@@ -1,2 +1,3 @@
 src/gage_data/*
 data/
+.ipynb_checkpoints/
